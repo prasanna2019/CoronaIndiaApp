@@ -1,5 +1,9 @@
 # Testapp
-This is a demo react native app.   
+This is a demo react native app.    
+
+
+This app gives the data of Corona cases in the country. You can also get statewise data.  
+
 
 
 react-native-cli: 2.0.1
